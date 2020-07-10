@@ -4,13 +4,6 @@ Full-stack web developer. DevOps enthusiast. Always toying with the latest frame
 
 ✔ Typescript | ✔ Go | ✔ React | ✔ DevOps
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/suvam0451//)](https://www.linkedin.com/in/suvam0451/)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suvam0451@outlook.com)](mailto:suvam0451@outlook.com)
-
-
-
-🔍 **Currently looking for remote web-development internship opportunities.** 💻
-
 You can visit my portfolio projects from the following links:
 
 |Project Name           | Type           | Published   | Source|
@@ -19,3 +12,5 @@ You can visit my portfolio projects from the following links:
 | vscode-geass          |    NPM         | [![](https://img.shields.io/npm/dw/vscode-geass?style=-square)](https://github.com/suvam0451/vscode-geass) | [![](https://img.shields.io/github/stars/suvam0451/vscode-geass?style=flat)](https://github.com/suvam0451/vscode-geass) |
 | private-docs-website  | Gatsby PWA     | [![Netlify Status](https://api.netlify.com/api/v1/badges/e3c2b5de-423f-417f-b57b-73d48f9e9c3f/deploy-status)](https://app.netlify.com/sites/suvam0451/deploys)| [![](https://img.shields.io/github/stars/suvam0451/personal-forest-ue4?style=flat)](https://github.com/suvam0451/sleeping-forest-ue4) |
 | kgp-upstream          | Gatsby PWA     | [![Netlify Status](https://api.netlify.com/api/v1/badges/cd12ff5e-1a66-43b3-9a7d-ceaa2958b12e/deploy-status)](https://github.com/suvam0451/kgp-upstream)| [![](https://img.shields.io/github/stars/suvam0451/kgp-upstream?style=flat)](https://github.com/suvam0451/sleeping-forest-ue4) |
+
+🔍 **Currently looking for remote web-development internship opportunities.** 💻
