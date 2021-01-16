@@ -4,8 +4,6 @@ Full-stack web developer. DevOps enthusiast. Always toying with the latest frame
 
 ✔ Typescript | ✔ Go | ✔ React | ✔ DevOps
 
-🔍 **Currently looking for remote web-development internship opportunities.** 💻
-
 You can visit my portfolio projects from the following links:
 
 |Project Name           | Type           | Published   | Source|
