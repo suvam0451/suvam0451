@@ -14,9 +14,9 @@
     •
   <a href="https://dhaaga.app">Website</a>
   •
-  <a href="https://discord.gg/4F8vAXRE">Discord</a>
+  <a href="https://discord.gg/Jc46bZAYZK">Discord</a>
   •
-  <a href="https://github.com/suvm0451/dhaaga">Source Code</a>
+  <a href="https://github.com/suvam0451/dhaaga">Source Code</a>
 </p>
 
 <div style="margin-top: 120px" align="center">
@@ -29,7 +29,7 @@
 ### Other active projects
 
 - [Yin](https://yin.suvam.io) A discord chatbot and image prompt assistant.
-  - It is a privately used by numerous discord servers as a fun tool.
+  - It is privately available for numerous discord servers as a fun/productivity tool.
 - [Sleeping Forest UE4](https://marketplace.visualstudio.com/items?itemName=suvam0451.sleeping-forest-ue4) A vscode plugin with code completion and asset management tools for Unreal Engine 4.
   - It had more than 10,000 downloads on VS code app store.
   - The project is now archived *(due to AI auto-completion tools like Github Copilot)*
