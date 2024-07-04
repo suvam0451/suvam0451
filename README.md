@@ -32,9 +32,7 @@
 
 
 - [Yin](https://yin.suvam.io) A discord chatbot and image prompt assistant.
-
-#### Archived projects
-
-|Project Name           | Type           | Published   | Source|
-|-----------------------|----------------|-------------|-------|
-| sleeping-forest-ue4   | VS Extension   | [![](https://img.shields.io/visual-studio-marketplace/v/suvam0451.sleeping-forest-ue4)](https://marketplace.visualstudio.com/items?itemName=suvam0451.sleeping-forest-ue4) | [![](https://img.shields.io/github/stars/suvam0451/sleeping-forest-ue4?style=flat)](https://github.com/suvam0451/sleeping-forest-ue4)|
+  - It is a privately used by numerous discord servers as a fun tool.
+- [Sleeping Forest UE4](https://marketplace.visualstudio.com/items?itemName=suvam0451.sleeping-forest-ue4) A vscode plugin with code completion and asset management tools for Unreal Engine 4.
+  - It had more than 10,000 downloads on VS code app store.
+  - The project is now archived *(due to AI auto-completion tools like Github Copilot)*
