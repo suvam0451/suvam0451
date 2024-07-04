@@ -26,10 +26,7 @@
   <img width="200px" src="https://github.com/suvam0451/dhaaga/assets/44526763/a22abeb0-105f-47cb-b9af-380789038a44"/>
 </div>
 
-
-
-#### Other active projects
-
+### Other active projects
 
 - [Yin](https://yin.suvam.io) A discord chatbot and image prompt assistant.
   - It is a privately used by numerous discord servers as a fun tool.
