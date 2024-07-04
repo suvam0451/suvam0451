@@ -19,11 +19,11 @@
   <a href="https://github.com/suvm0451/dhaaga">Source Code</a>
 </p>
 
-<div style="margin-top: 120px">
-  <img width="240px" src="https://github.com/suvam0451/suvam0451/assets/44526763/81505315-f262-4064-a0be-0c019f33ce77"/>
-<img width="240px" src="https://github.com/suvam0451/suvam0451/assets/44526763/c433c51c-1438-4ed5-9e71-db43b9362dd1"/>
-<img width="240px" src="https://github.com/suvam0451/suvam0451/assets/44526763/6ed48a99-feda-4ac4-be48-60170360a2a5"/>
-<img width="240px" src="https://github.com/suvam0451/dhaaga/assets/44526763/a22abeb0-105f-47cb-b9af-380789038a44"/>
+<div style="margin-top: 120px" align="center">
+  <img width="200px" src="https://github.com/suvam0451/suvam0451/assets/44526763/81505315-f262-4064-a0be-0c019f33ce77"/>
+  <img width="200px" src="https://github.com/suvam0451/suvam0451/assets/44526763/c433c51c-1438-4ed5-9e71-db43b9362dd1"/>
+  <img width="200px" src="https://github.com/suvam0451/suvam0451/assets/44526763/6ed48a99-feda-4ac4-be48-60170360a2a5"/>
+  <img width="200px" src="https://github.com/suvam0451/dhaaga/assets/44526763/a22abeb0-105f-47cb-b9af-380789038a44"/>
 </div>
 
 
