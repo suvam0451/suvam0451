@@ -23,6 +23,14 @@
 
 &nbsp;
 
+<p align="center">
+  💅 Sleek and Stylish •
+  ⚡ Fast •
+  🥳 Fun Add-Ons • 
+  🦉 Dark Theme •
+  ✌️ One-Handed Mode
+</p>
+
 <div align="center" style="margin-top:32px">
   <a href="https://play.google.com/store/apps/details?id=io.suvam.dhaaga" target="_blank">    
     <img src="./.github/badges/google_play.svg" height="48px"/>
