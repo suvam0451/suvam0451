@@ -1,9 +1,10 @@
-<h3 align="center">Debashish Patra</h3>
+<h3 align="center">Hi, I am Debashish 👋</h3>
 
 <p align="center">
+  <a href="https://suvam.io">Website</a> •
   <a href="https://suvam.io">Apps</a> •
   <a href="https://discord.gg/kMp5JA9jwD">Discord</a> •
-  <a href="https://suvam.io/blog">Blogs</a> •
+  <a href="https://suvam.io/blog">Blog</a> •
   <a href="https://suvam.io/about">About</a> •
   <a href="https://suvam.io/sponsor">Sponsor</a>
 </p>
@@ -19,11 +20,6 @@
   <img width="200px" src="https://github.com/user-attachments/assets/935b767e-af3f-462f-b678-c29b0c800823"/>
   <img width="200px" src="https://github.com/user-attachments/assets/3a7320d5-2417-4918-ab86-e0c5ea4d2d66"/>
 </div>
-
-<p align="center">
-  <a href="https://suvam.io/dhaaga">Website</a> •
-  <a href="https://github.com/suvam0451/dhaaga">Source Code</a>
-</p>
 
 <div align="center" style="margin-top:32px">
   <a href="https://play.google.com/store/apps/details?id=io.suvam.dhaaga" target="_blank">    
