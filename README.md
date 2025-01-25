@@ -1,9 +1,8 @@
-### Debashish Patra 👋
+[![Discord](https://img.shields.io/discord/1131212086446391430.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/kMp5JA9jwD)
 
-✔ Full-Stack Web Dev | ✔ Cloud Architect | ✔ Exploring React Native
+👨‍🎓 Full-Stack Developer
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,react,mysql,supabase,docker,aws,azure,python,golang&theme=dark)](https://skillicons.dev)
-
+[Apps](https://suvam.io) • [Blog](https://suvam.io/blog) • [About](https://suvam.io/about) • [Sponsor](https://suvam.io/sponsor) 
 
 <p><h1 align="center">Dhaaga (धागा)</h1></p>
 <p>
