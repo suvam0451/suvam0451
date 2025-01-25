@@ -7,16 +7,7 @@
 
 <p><h1 align="center">Dhaaga (धागा)</h1></p>
 <p>
-  <h3 align="center">Social networking client for Mastodon and Misskey</h3>
-</p>
-<p align="center">
-  <a href="https://github.com/suvam0451/dhaaga/releases/download/v0.2.0/Dhaaga-v0.2.0.apk">Download</a>
-    •
-  <a href="https://dhaaga.app">Website</a>
-  •
-  <a href="https://discord.gg/Jc46bZAYZK">Discord</a>
-  •
-  <a href="https://github.com/suvam0451/dhaaga">Source Code</a>
+  <h3 align="center">SNS client for Bluesky, Mastodon and Misskey</h3>
 </p>
 
 <div style="margin-top: 120px" align="center">
@@ -24,6 +15,21 @@
   <img width="200px" src="https://github.com/suvam0451/suvam0451/assets/44526763/c433c51c-1438-4ed5-9e71-db43b9362dd1"/>
   <img width="200px" src="https://github.com/suvam0451/suvam0451/assets/44526763/6ed48a99-feda-4ac4-be48-60170360a2a5"/>
   <img width="200px" src="https://github.com/suvam0451/dhaaga/assets/44526763/a22abeb0-105f-47cb-b9af-380789038a44"/>
+</div>
+
+<p align="center">
+  <a href="https://suvam.io/dhaaga">Website</a> •
+  <a href="https://discord.gg/Jc46bZAYZK">Discord</a> •
+  <a href="https://github.com/suvam0451/dhaaga">Source Code</a>
+</p>
+
+<div align="center" style="margin-top:32px">
+  <a href="https://play.google.com/store/apps/details?id=io.suvam.dhaaga" target="_blank">    
+    <img src="./.github/badges/google_play.svg" height="48px"/>
+  </a>
+  <a href="https://apt.izzysoft.de/fdroid/index/apk/io.suvam.dhaaga.lite" target="_blank">
+    <img src="./.github/badges/izzy_on_droid.png" height="48px"/>
+  </a>
 </div>
 
 ### Other active projects
