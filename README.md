@@ -15,10 +15,10 @@
 </p>
 
 <div style="margin-top: 120px" align="center">
-  <img width="200px" src="https://github.com/user-attachments/assets/e2a42103-e413-4385-86d9-c2de28930cac"/>
-  <img width="200px" src="https://github.com/user-attachments/assets/5316c892-654b-4781-aa31-85ef813b918e"/>
-  <img width="200px" src="https://github.com/user-attachments/assets/935b767e-af3f-462f-b678-c29b0c800823"/>
-  <img width="200px" src="https://github.com/user-attachments/assets/3a7320d5-2417-4918-ab86-e0c5ea4d2d66"/>
+  <img width="200px" src="./showcases/001.png"/>
+  <img width="200px" src="./showcases/002.png"/>
+  <img width="200px" src="./showcases/003.png"/>
+  <img width="200px" src="./showcases/004.png"/>
 </div>
 
 <div align="center" style="margin-top:32px">
